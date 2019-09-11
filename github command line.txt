@@ -1,0 +1,19 @@
+======================> Github Command Line <=======================
+
+==============================> Push your repository  on github <======================================
+1) git config --global user.name "HishmatRai"
+2) git config --global user.email "hismatrai@gmail.com"
+3)git init
+4)git add .
+5)git commit -m "write here message"
+6)git remote add github https://github.com/HishmatRai/github-coomand-line
+            =====> means your github  repository link <====
+7)git remote -v
+8)git push -f github master
+
+
+
+==============================> clone your repository  form github <======================================
+
+1)git clone https://github.com/HishmatRai/github-coomand-line
+          =====> means your github  repository link <===
